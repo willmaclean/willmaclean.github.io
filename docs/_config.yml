@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@w_amac"
 github_username:  "willmaclean"
 
+desc:  >
 I am a data scientist currently working on AI for cardiac health. I research epistemic and semantic uncertainty in the language of radiology reporting. See my github for relevant code.
 
 I am also interested in AI for ecology and bio-systems. What can we save...
