@@ -5,7 +5,7 @@
 layout: home
 title: Will Maclean
 ---
-desc:  >
+<p>
 I am a data scientist currently working on AI for cardiac health. I research epistemic and semantic uncertainty in the language of radiology reporting. See my github for relevant code.
 
 I am also interested in AI for ecology and bio-systems. What can we save...
@@ -17,3 +17,5 @@ I maintain an email letter of dubious merit at walfred.substack.com.
 My twitter is @willlmaclean.
 
 Reach my email at willmaclean (at) gmail.com
+
+</p>
