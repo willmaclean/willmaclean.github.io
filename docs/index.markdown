@@ -5,4 +5,4 @@
 layout: home
 title: Will Maclean
 ---
-<a class = 'site title'> Will Maclean </a>
+<desc></desc>
